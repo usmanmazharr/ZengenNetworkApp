@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">836246969746-i31u4fmptr5uhfcn2lt0dm7bvo1nfvel.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">836246969746</string>
+    <string name="google_api_key" translatable="false">AIzaSyBTV7JDs5F0K1NvsEhumOoglkJVdEysZJc</string>
+    <string name="google_app_id" translatable="false">1:836246969746:android:4ce98d596ec2b5dbe4b54b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBTV7JDs5F0K1NvsEhumOoglkJVdEysZJc</string>
+    <string name="google_storage_bucket" translatable="false">zengennetwork-a9653.appspot.com</string>
+    <string name="project_id" translatable="false">zengennetwork-a9653</string>
+</resources>

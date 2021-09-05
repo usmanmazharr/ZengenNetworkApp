@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <item android:id="@+id/employee" android:title="Employee" android:icon="@drawable/employee"/>
+    <item android:id="@+id/department" android:title="Department" android:icon="@drawable/department"/>
+    <item android:id="@+id/director" android:title="Board of Director" android:icon="@drawable/director"/>
+</menu>

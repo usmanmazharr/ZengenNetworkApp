@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    @style/SpinKitView
+    @style/SpinKitView.Circle
+    @style/SpinKitView.Large
+    @style/SpinKitView.Small
+    @style/SpinKitView.Small.DoubleBounce
+</resources>

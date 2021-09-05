@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836246969746",
+    "project_id": "zengennetwork-a9653",
+    "storage_bucket": "zengennetwork-a9653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836246969746:android:4ce98d596ec2b5dbe4b54b",
+        "android_client_info": {
+          "package_name": "com.example.zengennetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836246969746-i31u4fmptr5uhfcn2lt0dm7bvo1nfvel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTV7JDs5F0K1NvsEhumOoglkJVdEysZJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836246969746-i31u4fmptr5uhfcn2lt0dm7bvo1nfvel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
