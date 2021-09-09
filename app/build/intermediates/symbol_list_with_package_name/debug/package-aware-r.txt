@@ -1853,6 +1853,7 @@ drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
 drawable cursor_color
+drawable dep
 drawable department
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1875,6 +1876,7 @@ drawable ic_mtrl_chip_close_circle
 drawable instagram
 drawable linkedin
 drawable logo
+drawable mainthemecolor
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -1914,6 +1916,8 @@ drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable twitter
+font lato
+font lato_bold
 font poppins_medium
 font poppins_regular
 id ALT
@@ -1927,6 +1931,7 @@ id DoubleBounce
 id FUNCTION
 id FadingCircle
 id FoldingCube
+id Location
 id META
 id MultiplePulse
 id MultiplePulseRing
@@ -2037,6 +2042,7 @@ id buttonPanel
 id cache_measures
 id cancel_action
 id cancel_button
+id cardview
 id carryVelocity
 id center
 id center_horizontal
@@ -2125,7 +2131,10 @@ id end_padder
 id enterAlways
 id enterAlwaysCollapsed
 id exitUntilCollapsed
+id exp_dep_name
+id exp_no_mem
 id expand_activities_button
+id expandable
 id expanded_menu
 id fade
 id fill
@@ -2283,11 +2292,15 @@ id pathRelative
 id peekHeight
 id percent
 id pin
+id pop_address
+id pop_image
+id pop_name
+id pop_role
 id position
 id postLayout
-id progress
 id progress_circular
 id progress_horizontal
+id projects
 id radio
 id ratio
 id rectangles
@@ -2328,6 +2341,7 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id showmore
 id signup
 id signup_on_login
 id sin
@@ -2532,6 +2546,7 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout director_design
 layout employee_design
+layout employee_popup
 layout fragment_department
 layout fragment_director
 layout fragment_employee

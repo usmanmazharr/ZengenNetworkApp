@@ -7,14 +7,16 @@
         <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/drawable/blue_fill__rounded_color.xml" value="0.2203125" />
         <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/drawable/employee.xml" value="0.2203125" />
         <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/drawable/employees.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/drawable/mainthemecolor.xml" value="0.1787037037037037" />
         <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/drawable/menu.xml" value="1.040625" />
         <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/layout/activity_login.xml" value="0.11911231884057971" />
-        <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/layout/activity_splash.xml" value="0.1" />
-        <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/layout/department_design.xml" value="0.22" />
-        <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/layout/director_design.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/layout/department_design.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/layout/director_design.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/layout/employee.xml" value="0.151268115942029" />
         <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/layout/employee_design.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/layout/employee_popup.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/layout/fragment_department.xml" value="0.151268115942029" />
         <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/layout/fragment_director.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/zengen/app/src/main/res/layout/fragment_employee.xml" value="0.16983695652173914" />

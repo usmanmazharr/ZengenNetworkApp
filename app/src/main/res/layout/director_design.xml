@@ -8,10 +8,10 @@
 
     <androidx.cardview.widget.CardView
         android:id="@+id/emp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:elevation="4dp"
-        app:cardCornerRadius="10dp"
+        app:cardCornerRadius="20dp"
         app:cardUseCompatPadding="true"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -25,31 +25,37 @@
 
             <ImageView
                 android:id="@+id/imageholder"
-                android:layout_width="200dp"
-                android:layout_height="200dp"
+                android:layout_width="match_parent"
+                android:layout_height="400dp"
                 android:layout_gravity="center_horizontal"
                 android:adjustViewBounds="true"
-                android:padding="2dp"
                 android:scaleType="fitXY" />
 
             <TextView
+                android:paddingTop="5dp"
                 android:id="@+id/theader"
+                android:paddingBottom="5dp"
+                android:background="@drawable/mainthemecolor"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:gravity="center"
-                android:textColor="#000"
-                android:textSize="20dp"
+                android:textColor="@color/white"
+                android:fontFamily="@font/lato_bold"
+                android:textSize="27dp"
                 android:textStyle="bold" />
 
             <TextView
+                android:background="@drawable/mainthemecolor"
                 android:id="@+id/role"
+                android:fontFamily="@font/lato"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:gravity="center"
-                android:textColor="#000"
-                android:textSize="15dp"
+                android:textColor="@color/white"
+                android:textSize="18dp"
+                android:paddingBottom="5dp"
                 android:textStyle="bold" />
 
         </LinearLayout>

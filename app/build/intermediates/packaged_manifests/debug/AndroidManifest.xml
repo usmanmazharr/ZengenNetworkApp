@@ -24,7 +24,7 @@
         android:theme="@style/Theme.ZengenNetwork"
         android:title="Zengen Network" >
         <activity
-            android:name="com.example.zengennetwork.SplashActivity"
+            android:name="com.example.zengennetwork.Login.SplashActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -33,10 +33,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.zengennetwork.SignupActivity"
+            android:name="com.example.zengennetwork.Login.SignupActivity"
             android:exported="true" />
         <activity
-            android:name="com.example.zengennetwork.LoginActivity"
+            android:name="com.example.zengennetwork.Login.LoginActivity"
             android:exported="true" />
         <activity
             android:name="com.example.zengennetwork.MainActivity"

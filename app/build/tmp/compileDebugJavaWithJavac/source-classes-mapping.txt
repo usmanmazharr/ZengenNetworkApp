@@ -1,44 +1,47 @@
-com/example/zengennetwork/department_adapter.java
- com.example.zengennetwork.department_adapter
- com.example.zengennetwork.department_adapter$myviewholder
-com/example/zengennetwork/DepDatum.java
- com.example.zengennetwork.DepDatum
-com/example/zengennetwork/employee_adapter.java
- com.example.zengennetwork.employee_adapter
- com.example.zengennetwork.employee_adapter$myviewholder
-com/example/zengennetwork/director_adapter.java
- com.example.zengennetwork.director_adapter
- com.example.zengennetwork.director_adapter$myviewholder
-com/example/zengennetwork/Datum.java
- com.example.zengennetwork.Datum
-com/example/zengennetwork/DepartmentFragment.java
- com.example.zengennetwork.DepartmentFragment
- com.example.zengennetwork.DepartmentFragment$1
- com.example.zengennetwork.DepartmentFragment$2
-com/example/zengennetwork/SignupActivity.java
- com.example.zengennetwork.SignupActivity
- com.example.zengennetwork.SignupActivity$1
- com.example.zengennetwork.SignupActivity$2
-com/example/zengennetwork/DirectorFragment.java
- com.example.zengennetwork.DirectorFragment
- com.example.zengennetwork.DirectorFragment$1
- com.example.zengennetwork.DirectorFragment$2
-com/example/zengennetwork/DirDatum.java
- com.example.zengennetwork.DirDatum
-com/example/zengennetwork/EmployeeFragment.java
- com.example.zengennetwork.EmployeeFragment
- com.example.zengennetwork.EmployeeFragment$1
- com.example.zengennetwork.EmployeeFragment$2
 com/example/zengennetwork/BuildConfig.java
  com.example.zengennetwork.BuildConfig
-com/example/zengennetwork/LoginActivity.java
- com.example.zengennetwork.LoginActivity
- com.example.zengennetwork.LoginActivity$1
- com.example.zengennetwork.LoginActivity$2
- com.example.zengennetwork.LoginActivity$3
+com/example/zengennetwork/data/DepDatum.java
+ com.example.zengennetwork.data.DepDatum
+com/example/zengennetwork/Fragments/DirectorFragment.java
+ com.example.zengennetwork.Fragments.DirectorFragment
+ com.example.zengennetwork.Fragments.DirectorFragment$1
+ com.example.zengennetwork.Fragments.DirectorFragment$2
+com/example/zengennetwork/Login/SignupActivity.java
+ com.example.zengennetwork.Login.SignupActivity
+ com.example.zengennetwork.Login.SignupActivity$1
+ com.example.zengennetwork.Login.SignupActivity$2
+com/example/zengennetwork/data/Datum.java
+ com.example.zengennetwork.data.Datum
+com/example/zengennetwork/Adapters/director_adapter.java
+ com.example.zengennetwork.Adapters.director_adapter
+ com.example.zengennetwork.Adapters.director_adapter$myviewholder
+com/example/zengennetwork/Login/LoginActivity.java
+ com.example.zengennetwork.Login.LoginActivity
+ com.example.zengennetwork.Login.LoginActivity$1
+ com.example.zengennetwork.Login.LoginActivity$2
+ com.example.zengennetwork.Login.LoginActivity$3
+com/example/zengennetwork/Fragments/EmployeeFragment.java
+ com.example.zengennetwork.Fragments.EmployeeFragment
+ com.example.zengennetwork.Fragments.EmployeeFragment$1
+ com.example.zengennetwork.Fragments.EmployeeFragment$2
+com/example/zengennetwork/Adapters/employee_adapter.java
+ com.example.zengennetwork.Adapters.employee_adapter
+ com.example.zengennetwork.Adapters.employee_adapter$myviewholder
+ com.example.zengennetwork.Adapters.employee_adapter$myviewholder$1
+ com.example.zengennetwork.Adapters.employee_adapter$myviewholder$2
+com/example/zengennetwork/Login/SplashActivity.java
+ com.example.zengennetwork.Login.SplashActivity
+ com.example.zengennetwork.Login.SplashActivity$1
+com/example/zengennetwork/data/DirDatum.java
+ com.example.zengennetwork.data.DirDatum
 com/example/zengennetwork/MainActivity.java
  com.example.zengennetwork.MainActivity
  com.example.zengennetwork.MainActivity$1
-com/example/zengennetwork/SplashActivity.java
- com.example.zengennetwork.SplashActivity
- com.example.zengennetwork.SplashActivity$1
+com/example/zengennetwork/Adapters/department_adapter.java
+ com.example.zengennetwork.Adapters.department_adapter
+ com.example.zengennetwork.Adapters.department_adapter$1
+ com.example.zengennetwork.Adapters.department_adapter$myviewholder
+com/example/zengennetwork/Fragments/DepartmentFragment.java
+ com.example.zengennetwork.Fragments.DepartmentFragment
+ com.example.zengennetwork.Fragments.DepartmentFragment$1
+ com.example.zengennetwork.Fragments.DepartmentFragment$2

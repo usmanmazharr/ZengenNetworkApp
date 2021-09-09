@@ -42,8 +42,8 @@
 25-->P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:14:9-41
 26        <activity
 26-->P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:21:9-28:20
-27            android:name="com.example.zengennetwork.SplashActivity"
-27-->P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:22:13-43
+27            android:name="com.example.zengennetwork.Login.SplashActivity"
+27-->P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:22:13-49
 28            android:exported="true" >
 28-->P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:23:13-36
 29            <intent-filter>
@@ -59,14 +59,14 @@
 34        </activity>
 35        <activity
 35-->P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:30:9-32:39
-36            android:name="com.example.zengennetwork.SignupActivity"
-36-->P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:31:13-43
+36            android:name="com.example.zengennetwork.Login.SignupActivity"
+36-->P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:31:13-49
 37            android:exported="true" />
 37-->P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:32:13-36
 38        <activity
 38-->P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:34:9-36:39
-39            android:name="com.example.zengennetwork.LoginActivity"
-39-->P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:35:13-42
+39            android:name="com.example.zengennetwork.Login.LoginActivity"
+39-->P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:35:13-48
 40            android:exported="true" />
 40-->P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:36:13-36
 41        <activity

@@ -134,12 +134,12 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Us
 		ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
 		ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:18:9-51
-activity#com.example.zengennetwork.SplashActivity
+activity#com.example.zengennetwork.Login.SplashActivity
 ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:21:9-28:20
 	android:exported
 		ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:23:13-36
 	android:name
-		ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:22:13-43
+		ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:22:13-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:24:13-27:29
 action#android.intent.action.MAIN
@@ -150,18 +150,18 @@ category#android.intent.category.LAUNCHER
 ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
 		ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:26:27-74
-activity#com.example.zengennetwork.SignupActivity
+activity#com.example.zengennetwork.Login.SignupActivity
 ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:30:9-32:39
 	android:exported
 		ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:32:13-36
 	android:name
-		ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:31:13-43
-activity#com.example.zengennetwork.LoginActivity
+		ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:31:13-49
+activity#com.example.zengennetwork.Login.LoginActivity
 ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:34:9-36:39
 	android:exported
 		ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:36:13-36
 	android:name
-		ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:35:13-42
+		ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:35:13-48
 activity#com.example.zengennetwork.MainActivity
 ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:37:9-43:20
 	android:exported

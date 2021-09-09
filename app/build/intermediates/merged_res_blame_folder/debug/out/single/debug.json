@@ -8,6 +8,10 @@
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\director.xml"
     },
     {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\layout_employee_popup.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\employee_popup.xml"
+    },
+    {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
@@ -92,6 +96,10 @@
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\fragment_department.xml"
     },
     {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_dep.jpg.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\dep.jpg"
+    },
+    {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_fb.png.flat",
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\fb.png"
     },
@@ -116,8 +124,16 @@
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\logo.png"
     },
     {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_mainthemecolor.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\mainthemecolor.xml"
+    },
+    {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_twitter.png.flat",
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\font_lato.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\font\\lato.xml"
     },
     {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_employee.xml.flat",
@@ -166,5 +182,9 @@
     {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\font_lato_bold.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\font\\lato_bold.xml"
     }
 ]

@@ -1,15 +1,9 @@
 package com.example.zengennetwork;
 
-import android.content.Intent;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
-import android.os.CountDownTimer;
-import android.os.Handler;
-import android.util.Log;
-import android.util.TypedValue;
 import android.view.MenuItem;
-import android.view.View;
-import android.view.Window;
-import android.widget.ProgressBar;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBar;
@@ -17,15 +11,11 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 
-import com.etebarian.meowbottomnavigation.MeowBottomNavigation;
-import com.github.ybq.android.spinkit.sprite.Sprite;
-import com.github.ybq.android.spinkit.style.DoubleBounce;
-import com.github.ybq.android.spinkit.style.FoldingCube;
+import com.example.zengennetwork.Fragments.DepartmentFragment;
+import com.example.zengennetwork.Fragments.DirectorFragment;
+import com.example.zengennetwork.Fragments.EmployeeFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
-
-import kotlin.Unit;
-import kotlin.jvm.functions.Function1;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -43,6 +33,8 @@ public class MainActivity extends AppCompatActivity {
       //  requestWindowFeature(Window.FEATURE_INDETERMINATE_PROGRESS);
 
 
+        ActionBar bar = getSupportActionBar();
+        bar.setBackgroundDrawable(new ColorDrawable(Color.parseColor("#6A287E")));
         bottomNavigationView = findViewById(R.id.bottom_navigation);
 
         getSupportFragmentManager().beginTransaction().replace(R.id.frame , new EmployeeFragment()).commit();

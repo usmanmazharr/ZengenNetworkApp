@@ -17,21 +17,12 @@
 
         <com.google.android.material.bottomnavigation.BottomNavigationView
             android:id="@+id/bottom_navigation"
+            app:itemTextColor="@color/white"
+            app:itemIconTint="@color/white"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/mainthemecolor"
             app:layout_constraintBottom_toBottomOf="parent"
             app:menu="@menu/menu" />
-
-
-    <ProgressBar
-        android:id="@+id/progress"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:visibility="gone"
-        app:layout_constraintBottom_toBottomOf="@+id/frame"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/frame"
-        tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
