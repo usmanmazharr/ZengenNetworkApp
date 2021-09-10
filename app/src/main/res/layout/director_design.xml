@@ -35,26 +35,36 @@
                 android:paddingTop="5dp"
                 android:id="@+id/theader"
                 android:paddingBottom="5dp"
-                android:background="@drawable/mainthemecolor"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:gravity="center"
-                android:textColor="@color/white"
+                android:textColor="#000"
                 android:fontFamily="@font/lato_bold"
                 android:textSize="27dp"
                 android:textStyle="bold" />
 
             <TextView
-                android:background="@drawable/mainthemecolor"
                 android:id="@+id/role"
                 android:fontFamily="@font/lato"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:gravity="center"
-                android:textColor="@color/white"
+                android:textColor="#000"
                 android:textSize="18dp"
+                android:paddingBottom="5dp"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/quote"
+                android:visibility="gone"
+                android:fontFamily="@font/lato"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center"
+                android:textColor="#000"
+                android:textSize="20dp"
                 android:paddingBottom="5dp"
                 android:textStyle="bold" />
 

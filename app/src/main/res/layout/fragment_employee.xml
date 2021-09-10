@@ -8,3 +8,4 @@
     tools:context=".Fragments.EmployeeFragment">
 
 </androidx.recyclerview.widget.RecyclerView>
+

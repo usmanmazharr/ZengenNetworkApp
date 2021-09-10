@@ -25,8 +25,6 @@ public class department_adapter extends RecyclerView.Adapter<department_adapter.
     Context context;
 
 
-
-
     public department_adapter(DepDatum[] data, Context context )
     {
         this.data = data;
@@ -56,7 +54,7 @@ public class department_adapter extends RecyclerView.Adapter<department_adapter.
         holder.name.setText("Deparment : " + datum.getDeptName());
         holder.member.setText("Members : " + datum.getNoOfMembers());
         holder.projects.setText("Project Assigned : " +datum.getProjectAssigned());
-        holder.location.setText("Location : " +datum.getProjectAssigned());
+        holder.location.setText("Location : " +datum.getDeptLocation());
 
        
         holder.show.setOnClickListener(new View.OnClickListener() {
@@ -89,7 +87,6 @@ public class department_adapter extends RecyclerView.Adapter<department_adapter.
 
 
 
-
     public class myviewholder extends RecyclerView.ViewHolder
     {
         TextView dep_name;
@@ -105,6 +102,7 @@ public class department_adapter extends RecyclerView.Adapter<department_adapter.
         public myviewholder(@NonNull View itemView)
         {
             super(itemView);
+
             cardView = (CardView) itemView.findViewById(R.id.cardview);
 
             dep_name=(TextView)itemView.findViewById(R.id.dep_name);
@@ -117,7 +115,6 @@ public class department_adapter extends RecyclerView.Adapter<department_adapter.
             member=(TextView)itemView.findViewById(R.id.exp_no_mem);
             projects = (TextView) itemView.findViewById(R.id.projects);
             location = (TextView) itemView.findViewById(R.id.Location);
-
 
 
         }

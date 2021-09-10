@@ -45,6 +45,7 @@ public class DepartmentFragment extends Fragment {
         recview.setLayoutManager(new LinearLayoutManager(getActivity()));
 
 
+
         //GridLayoutManager gridLayoutManager = new GridLayoutManager(getActivity(), 2);
        // recview.setLayoutManager(gridLayoutManager);
         StringRequest request=new StringRequest(url, new Response.Listener<String>() {

@@ -4,8 +4,10 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ProgressBar;
 
 import androidx.fragment.app.Fragment;
+import androidx.loader.content.Loader;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
@@ -25,6 +27,7 @@ public class EmployeeFragment extends Fragment {
     private static final String url="https://zengen.network/simple_Api/Employee.php";
     RecyclerView recview;
     public EmployeeFragment() {}
+
 
 
     public void onCreate(Bundle savedInstanceState) {
@@ -65,7 +68,6 @@ public class EmployeeFragment extends Fragment {
         RequestQueue queue= Volley.newRequestQueue(getActivity());
         queue.add(request);
         return view;
-
 
 
     }

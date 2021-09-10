@@ -11,6 +11,7 @@ MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Usman\.gradle\caches\t
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Usman\.gradle\caches\transforms-3\c5935cb5b4ab6200648b109c859196fa\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Usman\.gradle\caches\transforms-3\8a8fd0f1432b0eb499417f0d8b32eb2a\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Usman\.gradle\caches\transforms-3\64b5845e07c65b6a1003b730c49421a7\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.eightbitlab:blurview:1.6.6] C:\Users\Usman\.gradle\caches\transforms-3\ecc9c4a8b8f7b0ee68d7fe5fad543e3d\transformed\jetified-blurview-1.6.6\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Usman\.gradle\caches\transforms-3\26aab055e0d87a1f93476c9f3aa6dc46\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usman\.gradle\caches\transforms-3\647c7a3367b687cad4b3388bba41e1cc\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:17:1-42:12
 MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Usman\.gradle\caches\transforms-3\0906eebca13cf2f64f6a73ce9e0f6986\transformed\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
@@ -98,6 +99,8 @@ MERGED from [com.google.android.material:material:1.4.0] C:\Users\Usman\.gradle\
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Usman\.gradle\caches\transforms-3\f5750aac57317a504e6f6fd048bce552\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Usman\.gradle\caches\transforms-3\73bc3fbfd4912ca6542b16a8bdf08ef6\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\Usman\.gradle\caches\transforms-3\73bc3fbfd4912ca6542b16a8bdf08ef6\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.eightbitlab:blurview:1.6.6] C:\Users\Usman\.gradle\caches\transforms-3\ecc9c4a8b8f7b0ee68d7fe5fad543e3d\transformed\jetified-blurview-1.6.6\AndroidManifest.xml:9:5-20
+MERGED from [com.eightbitlab:blurview:1.6.6] C:\Users\Usman\.gradle\caches\transforms-3\ecc9c4a8b8f7b0ee68d7fe5fad543e3d\transformed\jetified-blurview-1.6.6\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usman\.gradle\caches\transforms-3\647c7a3367b687cad4b3388bba41e1cc\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usman\.gradle\caches\transforms-3\647c7a3367b687cad4b3388bba41e1cc\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:23:5-40:19
 MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Usman\.gradle\caches\transforms-3\0906eebca13cf2f64f6a73ce9e0f6986\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
@@ -192,6 +195,8 @@ MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Usman\.gradle\ca
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Usman\.gradle\caches\transforms-3\8a8fd0f1432b0eb499417f0d8b32eb2a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Usman\.gradle\caches\transforms-3\64b5845e07c65b6a1003b730c49421a7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Usman\.gradle\caches\transforms-3\64b5845e07c65b6a1003b730c49421a7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.eightbitlab:blurview:1.6.6] C:\Users\Usman\.gradle\caches\transforms-3\ecc9c4a8b8f7b0ee68d7fe5fad543e3d\transformed\jetified-blurview-1.6.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.eightbitlab:blurview:1.6.6] C:\Users\Usman\.gradle\caches\transforms-3\ecc9c4a8b8f7b0ee68d7fe5fad543e3d\transformed\jetified-blurview-1.6.6\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Usman\.gradle\caches\transforms-3\26aab055e0d87a1f93476c9f3aa6dc46\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Usman\.gradle\caches\transforms-3\26aab055e0d87a1f93476c9f3aa6dc46\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usman\.gradle\caches\transforms-3\647c7a3367b687cad4b3388bba41e1cc\transformed\jetified-firebase-auth-19.2.0\AndroidManifest.xml:21:5-44

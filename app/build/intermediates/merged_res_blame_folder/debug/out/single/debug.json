@@ -1,43 +1,23 @@
 [
     {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_company.png.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\company.png"
     },
     {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_director.xml.flat",
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\director.xml"
     },
     {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\layout_employee_popup.xml.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\employee_popup.xml"
-    },
-    {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_linkedin.png.flat",
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\linkedin.png"
     },
     {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_employee.xml.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\fragment_employee.xml"
-    },
-    {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_email.png.flat",
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\email.png"
-    },
-    {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_blue_bg.png.flat",
@@ -48,40 +28,8 @@
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\font\\poppins_regular.ttf"
     },
     {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_signup.xml.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\activity_signup.xml"
-    },
-    {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_splash.png.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\splash.png"
-    },
-    {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_blue_border_rounded_cornwe.xml.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\blue_border_rounded_cornwe.xml"
-    },
-    {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_capture.PNG.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\capture.PNG"
-    },
-    {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_blue_fill__rounded_color.xml.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\blue_fill__rounded_color.xml"
-    },
-    {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_password.png.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\password.png"
-    },
-    {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_instagram.png.flat",
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\instagram.png"
-    },
-    {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\layout_director_design.xml.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\director_design.xml"
     },
     {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_director.xml.flat",
@@ -90,18 +38,6 @@
     {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_department.xml.flat",
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\department.xml"
-    },
-    {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_department.xml.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\fragment_department.xml"
-    },
-    {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_dep.jpg.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\dep.jpg"
-    },
-    {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_fb.png.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\fb.png"
     },
     {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -116,10 +52,6 @@
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
-    },
-    {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.png.flat",
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\logo.png"
     },
@@ -128,20 +60,8 @@
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\mainthemecolor.xml"
     },
     {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_twitter.png.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\twitter.png"
-    },
-    {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\font_lato.xml.flat",
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\font\\lato.xml"
-    },
-    {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_employee.xml.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\employee.xml"
-    },
-    {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
@@ -156,16 +76,12 @@
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_cursor_color.xml.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\cursor_color.xml"
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\anim_zoom_out.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\anim\\zoom_out.xml"
     },
     {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\layout_department_design.xml.flat",
@@ -176,15 +92,119 @@
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\employee_design.xml"
     },
     {
-        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_medium.ttf.flat",
-        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\font\\poppins_medium.ttf"
-    },
-    {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\font_lato_bold.xml.flat",
         "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\font\\lato_bold.xml"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_capture.png.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\capture.png"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_designation.png.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\designation.png"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\layout_employee_popup.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\employee_popup.xml"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_employee.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\fragment_employee.xml"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_signup.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_splash.png.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_blue_border_rounded_cornwe.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\blue_border_rounded_cornwe.xml"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_password.png.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\password.png"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_blue_fill__rounded_color.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\blue_fill__rounded_color.xml"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\layout_director_design.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\director_design.xml"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_dep.jpg.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\dep.jpg"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_department.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\fragment_department.xml"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_fb.png.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\fb.png"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_twitter.png.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\layout_director_popup.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\director_popup.xml"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_employee.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\employee.xml"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\drawable_cursor_color.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\drawable\\cursor_color.xml"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\font_poppins_medium.ttf.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\font\\poppins_medium.ttf"
+    },
+    {
+        "merged": "P:\\AndroidStudioProjects\\zengen\\app\\build\\intermediates\\merged_res\\debug\\anim_zoom_in.xml.flat",
+        "source": "P:\\AndroidStudioProjects\\zengen\\app\\src\\main\\res\\anim\\zoom_in.xml"
     }
 ]

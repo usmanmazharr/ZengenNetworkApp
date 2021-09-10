@@ -20,27 +20,27 @@
             />
 
         <TextView
-            android:background="@drawable/mainthemecolor"
+
             android:id="@+id/theader"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
             android:fontFamily="@font/lato_bold"
             android:gravity="center"
-            android:textColor="@color/white"
+            android:textColor="#000"
             android:paddingBottom="5dp"
             android:textSize="20dp"
             android:textStyle="bold" />
 
         <TextView
-            android:background="@drawable/mainthemecolor"
+
             android:id="@+id/role"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_gravity="center_vertical"
             android:fontFamily="@font/lato"
             android:gravity="center"
-            android:textColor="@color/white"
+            android:textColor="#000"
             android:padding="5dp"
             android:textSize="14sp" />
 
