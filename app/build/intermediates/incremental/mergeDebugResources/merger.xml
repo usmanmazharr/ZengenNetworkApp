@@ -7870,7 +7870,9 @@
 
         <item>@font/lato</item>
         <item>@font/lato_bold</item>
-    </array></file><file path="P:\AndroidStudioProjects\zengen\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Zengen Network</string><string name="spinner_title">Your Role</string><string name="employee">Employee</string></file><file path="P:\AndroidStudioProjects\zengen\app\src\main\res\values\style.xml" qualifiers=""/><file path="P:\AndroidStudioProjects\zengen\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.ZengenNetwork" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    </array></file><file path="P:\AndroidStudioProjects\zengen\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">ZenGen Network</string><string name="spinner_title">Your Role</string><string name="employee">Employee</string><string name="label">ZenGen Network
+
+    </string></file><file path="P:\AndroidStudioProjects\zengen\app\src\main\res\values\style.xml" qualifiers=""/><file path="P:\AndroidStudioProjects\zengen\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.ZengenNetwork" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="android:statusBarColor">@drawable/mainthemecolor</item>
         <item name="actionBarSize">60dp</item>

@@ -29,8 +29,8 @@
 18        android:debuggable="true"
 19        android:icon="@drawable/capture"
 19-->P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:13:9-41
-20        android:label="Zengen Network"
-20-->P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:15:9-41
+20        android:label="@string/label"
+20-->P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:15:9-40
 21        android:roundIcon="@mipmap/ic_launcher_round"
 21-->P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:16:9-54
 22        android:supportsRtl="true"

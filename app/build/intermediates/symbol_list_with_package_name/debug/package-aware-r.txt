@@ -1936,7 +1936,6 @@ id DoubleBounce
 id FUNCTION
 id FadingCircle
 id FoldingCube
-id Location
 id META
 id MultiplePulse
 id MultiplePulseRing
@@ -2138,8 +2137,6 @@ id end_padder
 id enterAlways
 id enterAlwaysCollapsed
 id exitUntilCollapsed
-id exp_dep_name
-id exp_no_mem
 id expand_activities_button
 id expandable
 id expanded_menu
@@ -2180,6 +2177,8 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id image1
+id image2
 id imageView
 id imageholder
 id immediateStop
@@ -2265,6 +2264,8 @@ id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
 id name
+id name1
+id name2
 id navigation_bar_item_icon_view
 id navigation_bar_item_labels_group
 id navigation_bar_item_large_label_view
@@ -2306,7 +2307,6 @@ id position
 id postLayout
 id progress_circular
 id progress_horizontal
-id projects
 id quote
 id radio
 id ratio
@@ -2710,6 +2710,7 @@ string google_storage_bucket
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
+string label
 string material_clock_display_divider
 string material_clock_toggle_content_description
 string material_hour_selection

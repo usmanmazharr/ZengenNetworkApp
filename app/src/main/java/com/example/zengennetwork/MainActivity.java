@@ -38,14 +38,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         statusbar();
 
-      //  progressBar = (ProgressBar)findViewById(R.id.spin_kit);
-//        Sprite doubleBounce = new DoubleBounce();
-//        progressBar.setIndeterminateDrawable(doubleBounce);
-
-      //  requestWindowFeature(Window.FEATURE_INDETERMINATE_PROGRESS);
-
-       // progressBar = (ProgressBar) findViewById(R.id.progress);
-
         ActionBar bar = getSupportActionBar();
         bar.setBackgroundDrawable(getResources().getDrawable(R.drawable.mainthemecolor));
         bottomNavigationView = findViewById(R.id.bottom_navigation);

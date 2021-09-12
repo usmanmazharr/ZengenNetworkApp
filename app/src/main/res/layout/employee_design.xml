@@ -3,9 +3,8 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    app:cardCornerRadius="20dp"
+    app:cardCornerRadius="10dp"
     android:id="@+id/emp"
-    android:elevation="4dp"
     app:cardUseCompatPadding="true">
 
     <LinearLayout
@@ -21,6 +20,8 @@
 
         <TextView
 
+
+            android:layout_marginTop="10dp"
             android:id="@+id/theader"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -41,7 +42,7 @@
             android:fontFamily="@font/lato"
             android:gravity="center"
             android:textColor="#000"
-            android:padding="5dp"
+            android:layout_marginBottom="10dp"
             android:textSize="14sp" />
 
     </LinearLayout>

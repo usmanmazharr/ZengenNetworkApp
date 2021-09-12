@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">Zengen Network</string>
+    <string name="app_name">ZenGen Network</string>
     <string name="spinner_title">Your Role</string>
     <string name="employee">Employee</string>
+    <string name="label">ZenGen Network
+
+    </string>
+
 </resources>

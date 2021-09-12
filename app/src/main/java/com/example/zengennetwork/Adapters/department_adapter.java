@@ -9,6 +9,7 @@ import android.transition.TransitionManager;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
@@ -16,6 +17,7 @@ import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.bumptech.glide.Glide;
 import com.example.zengennetwork.data.DepDatum;
 import com.example.zengennetwork.R;
 
@@ -49,14 +51,19 @@ public class department_adapter extends RecyclerView.Adapter<department_adapter.
     {
         DepDatum datum = data[position];
         holder.dep_name.setText(datum.getDeptName());
+
         holder.dep_members.setText("Members: "  + datum.getNoOfMembers());
+        holder.name1.setText(datum.getName1());
+        holder.name2.setText(datum.getName2());
 
-        holder.name.setText("Deparment : " + datum.getDeptName());
-        holder.member.setText("Members : " + datum.getNoOfMembers());
-        holder.projects.setText("Project Assigned : " +datum.getProjectAssigned());
-        holder.location.setText("Location : " +datum.getDeptLocation());
+        Glide.with(holder.img1.getContext()).load("https://zengen.network/images/"+datum.getEmpPic()).into(holder.img1);
+        Glide.with(holder.img2.getContext()).load("https://zengen.network/images/"+datum.getEmpPic2()).into(holder.img2);
 
-       
+
+
+
+
+
         holder.show.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -91,30 +98,27 @@ public class department_adapter extends RecyclerView.Adapter<department_adapter.
     {
         TextView dep_name;
         TextView dep_members;
-        TextView name;
-        TextView member;
-        TextView projects;
         CardView cardView;
-        TextView location;
-
+        ImageView img1;
+        TextView name1;
+        ImageView img2;
+        TextView name2;
         LinearLayout expandable;
         TextView show;
+
         public myviewholder(@NonNull View itemView)
         {
             super(itemView);
 
             cardView = (CardView) itemView.findViewById(R.id.cardview);
-
             dep_name=(TextView)itemView.findViewById(R.id.dep_name);
             dep_members=(TextView)itemView.findViewById(R.id.member_no);
-
             expandable = (LinearLayout) itemView.findViewById(R.id.expandable);
             show = (TextView) itemView.findViewById(R.id.showmore);
-
-            name=(TextView) itemView.findViewById(R.id.exp_dep_name);
-            member=(TextView)itemView.findViewById(R.id.exp_no_mem);
-            projects = (TextView) itemView.findViewById(R.id.projects);
-            location = (TextView) itemView.findViewById(R.id.Location);
+            img1 = (ImageView) itemView.findViewById(R.id.image1);
+            name1 = (TextView) itemView.findViewById(R.id.name1);
+            img2 = (ImageView) itemView.findViewById(R.id.image2);
+            name2 = (TextView) itemView.findViewById(R.id.name2);
 
 
         }

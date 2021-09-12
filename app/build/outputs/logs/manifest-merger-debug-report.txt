@@ -128,7 +128,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Us
 	android:supportsRtl
 		ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:17:9-35
 	android:label
-		ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:15:9-40
 	android:roundIcon
 		ADDED from P:\AndroidStudioProjects\zengen\app\src\main\AndroidManifest.xml:16:9-54
 	android:icon
